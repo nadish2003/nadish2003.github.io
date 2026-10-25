@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nadish2003.github.io/sitemap.xml
